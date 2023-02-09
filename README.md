@@ -12,3 +12,5 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div>
+
+  ![snake gif](https://github.com/leandrofelix20k/leandrofelix20k/blob/output/github-contribution-grid-snake.svg)
