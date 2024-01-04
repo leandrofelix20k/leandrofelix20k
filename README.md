@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Leandro Felix
 
 - 🔭 Cursando Tecnológia da Informação
-- 🌱 Estudando HTML, CSS e JavaScript
+- 🌱 Estudando Java
  <div>
   <a href="https://github.com/leandrofelix20k">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=leandrofelix20k&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&"/>
