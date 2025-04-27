@@ -1,5 +1,3 @@
-## Olá! Eu sou o Leandro Felix
-
 - 🔭 Cursando Tecnológia da Informação
 - 🌱 Estudando Java
  <div>
